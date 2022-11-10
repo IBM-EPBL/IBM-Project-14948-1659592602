@@ -4,6 +4,6 @@ Fertilizers Recommendation System For Disease Prediction
 
 Team leader: Durgadevi S
 
-team members :  Deepika M
-                Santhoshkumar V
-                Vasanthakumar R
+team members :  Deepika M.
+                Santhoshkumar V.
+                Vasanthakumar R.
